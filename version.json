@@ -1,6 +1,6 @@
 {
-  "latest": "2.0.3",
+  "latest": "2.0.4",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.0.3/LeadTrapper.Setup.2.0.3.exe",
-  "message": "LeadTrapper v2.0.3 fixes a critical startup bug. Please install the update now to continue using LeadTrapper."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.0.4/LeadTrapper.Setup.2.0.4.exe",
+  "message": "LeadTrapper v2.0.4 is available. Please download and install the latest version to continue."
 }
