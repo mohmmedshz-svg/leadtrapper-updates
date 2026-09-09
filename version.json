@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.2",
+  "latest": "2.1.3",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.2/LeadTrapper.Setup.2.1.2.exe",
-  "message": "LeadTrapper v2.1.2 is available. This update fixes message personalisation, scheduled-campaign safety limits, and lead blocking. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.3/LeadTrapper.Setup.2.1.3.exe",
+  "message": "LeadTrapper v2.1.3 is available. This update fixes chatbot rule handling, contact sync duplicates, and Live Chat replies. Please update."
 }
