@@ -1,5 +1,8 @@
-# MySender Version Control
+# LeadTrapper Update Manifest
 
-This repository contains only the version manifest for MySender update distribution.
+This repository holds only the version manifest and release installers used by
+LeadTrapper's automatic updater.
 
-The source code is proprietary and not stored here.
+The application source is proprietary and is not stored here.
+
+Website: https://useleadtrapper.com
