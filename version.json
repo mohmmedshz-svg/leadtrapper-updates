@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.12",
+  "latest": "2.1.13",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.12/LeadTrapper.Setup.2.1.12.exe",
-  "message": "LeadTrapper v2.1.12 makes the update status on the version number reliable — Up to date, Checking, Downloading, or Update ready — and fixes a freeze when checking. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.13/LeadTrapper.Setup.2.1.13.exe",
+  "message": "LeadTrapper v2.1.13 makes the update status on the version number work — Up to date, Checking, Downloading, or Update ready. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
 }
