@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.5",
+  "latest": "2.1.6",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.5/LeadTrapper.Setup.2.1.5.exe",
-  "message": "LeadTrapper v2.1.5 fixes automatic updates failing with 'Failed to uninstall old application files'. Please install this version once by hand if your update did not apply."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.6/LeadTrapper.Setup.2.1.6.exe",
+  "message": "LeadTrapper v2.1.6 reports failed updates so they can be diagnosed. If an update ever fails with 'Failed to uninstall old application files', close LeadTrapper completely and install this version once by hand."
 }
