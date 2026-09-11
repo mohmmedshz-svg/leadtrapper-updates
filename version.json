@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.14",
+  "latest": "2.1.15",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.14/LeadTrapper.Setup.2.1.14.exe",
-  "message": "LeadTrapper v2.1.14 makes the update status on the version number update promptly instead of appearing stuck. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.15/LeadTrapper.Setup.2.1.15.exe",
+  "message": "LeadTrapper v2.1.15 checks for messages from us every 15 minutes instead of only at startup, so notices reach you without restarting. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
 }
