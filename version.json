@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.15",
+  "latest": "2.1.16",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.15/LeadTrapper.Setup.2.1.15.exe",
-  "message": "LeadTrapper v2.1.15 checks for messages from us every 15 minutes instead of only at startup, so notices reach you without restarting. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.16/LeadTrapper.Setup.2.1.16.exe",
+  "message": "LeadTrapper v2.1.16 removes a status panel that was reporting problems which did not exist. If you are on 2.1.9 or earlier, install once by hand; from 2.1.10 on, updates install themselves."
 }
