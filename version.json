@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.17",
+  "latest": "2.1.18",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.17/LeadTrapper.Setup.2.1.17.exe",
-  "message": "LeadTrapper v2.1.17 removes two developer-only debug buttons from the WhatsApp Number Filter and fixes the number cleanup so a few more messy formats (extra zeros, US/Canada numbers) are read correctly before checking."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.18/LeadTrapper.Setup.2.1.18.exe",
+  "message": "LeadTrapper v2.1.18 moves the WhatsApp Account Warmer and WhatsApp Group Warmer into the WhatsApp menu, next to your other WhatsApp tools."
 }
