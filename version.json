@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.18",
+  "latest": "2.1.19",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.18/LeadTrapper.Setup.2.1.18.exe",
-  "message": "LeadTrapper v2.1.18 moves the WhatsApp Account Warmer and WhatsApp Group Warmer into the WhatsApp menu, next to your other WhatsApp tools."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.19/LeadTrapper.Setup.2.1.19.exe",
+  "message": "LeadTrapper v2.1.19 fixes a first-launch issue: connecting WhatsApp, Instagram, Facebook or TikTok right after install could fail while one-time setup finished in the background. A clear setup screen now shows until it's ready."
 }
