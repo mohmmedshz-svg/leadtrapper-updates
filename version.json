@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.21",
+  "latest": "2.1.22",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.21/LeadTrapper.Setup.2.1.21.exe",
-  "message": "LeadTrapper v2.1.21 fixes three issues found during a deep pre-launch audit, including a case where a security-software false positive could leave the app silently broken instead of showing a clear message."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.22/LeadTrapper.Setup.2.1.22.exe",
+  "message": "LeadTrapper v2.1.22 makes first-time setup more reliable on slower connections: the app now retries automatically instead of showing an error after a single dropped download."
 }
