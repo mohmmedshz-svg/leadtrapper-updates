@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.22",
+  "latest": "2.1.23",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.22/LeadTrapper.Setup.2.1.22.exe",
-  "message": "LeadTrapper v2.1.22 makes first-time setup more reliable on slower connections: the app now retries automatically instead of showing an error after a single dropped download."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.23/LeadTrapper.Setup.2.1.23.exe",
+  "message": "LeadTrapper v2.1.23 makes it easier to add or switch WhatsApp accounts mid-setup in Warmer and Group Warmer, instead of having to leave and start over."
 }
