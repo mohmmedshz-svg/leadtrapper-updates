@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.20",
+  "latest": "2.1.21",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.20/LeadTrapper.Setup.2.1.20.exe",
-  "message": "LeadTrapper v2.1.20 fixes the installer hanging when run while LeadTrapper is already open — it now closes automatically and continues within about 40 seconds."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.21/LeadTrapper.Setup.2.1.21.exe",
+  "message": "LeadTrapper v2.1.21 fixes three issues found during a deep pre-launch audit, including a case where a security-software false positive could leave the app silently broken instead of showing a clear message."
 }
