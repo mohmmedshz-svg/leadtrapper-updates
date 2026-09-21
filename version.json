@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.29",
+  "latest": "2.1.30",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.29/LeadTrapper.Setup.2.1.29.exe",
-  "message": "LeadTrapper v2.1.29 redesigns the app's navigation (each platform now has its own section), refreshes the visual style, adds rail customization and Ctrl+K feature search, and fixes the WhatsApp accounts count on Home."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.30/LeadTrapper.Setup.2.1.30.exe",
+  "message": "LeadTrapper v2.1.30 fixes license activation always failing with a server error — no customer could activate a purchased key until this fix. If you were affected, download the latest installer and try again."
 }
