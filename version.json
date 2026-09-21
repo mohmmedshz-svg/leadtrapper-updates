@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.28",
+  "latest": "2.1.29",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.28/LeadTrapper.Setup.2.1.28.exe",
-  "message": "LeadTrapper v2.1.28 removes an internal diagnostics endpoint used for research and adds the Group Members add-account improvement from 2.1.25."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.29/LeadTrapper.Setup.2.1.29.exe",
+  "message": "LeadTrapper v2.1.29 redesigns the app's navigation (each platform now has its own section), refreshes the visual style, adds rail customization and Ctrl+K feature search, and fixes the WhatsApp accounts count on Home."
 }
