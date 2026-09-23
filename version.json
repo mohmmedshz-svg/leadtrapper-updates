@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.32",
+  "latest": "2.1.33",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.32/LeadTrapper.Setup.2.1.32.exe",
-  "message": "LeadTrapper v2.1.32 adds a Delay Calculator and a WhatsApp Link & QR Generator, lets the Number Filter carry on where it stopped after a Safety Pause, and stops a campaign on an account after 5 failed sends in an hour. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.33/LeadTrapper.Setup.2.1.33.exe",
+  "message": "LeadTrapper v2.1.33 makes Instagram Lead Gen pause itself if Instagram pushes back, uses a WhatsApp number from a bio when a profile has no business phone, and loads LinkedIn profiles more gently. Your app updates automatically."
 }
