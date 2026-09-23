@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.30",
+  "latest": "2.1.32",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.30/LeadTrapper.Setup.2.1.30.exe",
-  "message": "LeadTrapper v2.1.30 fixes license activation always failing with a server error — no customer could activate a purchased key until this fix. If you were affected, download the latest installer and try again."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.32/LeadTrapper.Setup.2.1.32.exe",
+  "message": "LeadTrapper v2.1.32 adds a Delay Calculator and a WhatsApp Link & QR Generator, lets the Number Filter carry on where it stopped after a Safety Pause, and stops a campaign on an account after 5 failed sends in an hour. Your app updates automatically."
 }
