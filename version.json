@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.33",
+  "latest": "2.1.34",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.33/LeadTrapper.Setup.2.1.33.exe",
-  "message": "LeadTrapper v2.1.33 makes Instagram Lead Gen pause itself if Instagram pushes back, uses a WhatsApp number from a bio when a profile has no business phone, and loads LinkedIn profiles more gently. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.34/LeadTrapper.Setup.2.1.34.exe",
+  "message": "LeadTrapper v2.1.34 fixes the empty Rating column on Google Maps in many languages and adds a working 'Stop after' limit to the Maps scraper. Your app updates automatically."
 }
