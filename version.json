@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.34",
+  "latest": "2.1.35",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.34/LeadTrapper.Setup.2.1.34.exe",
-  "message": "LeadTrapper v2.1.34 fixes the empty Rating column on Google Maps in many languages and adds a working 'Stop after' limit to the Maps scraper. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.35/LeadTrapper.Setup.2.1.35.exe",
+  "message": "LeadTrapper v2.1.35 makes the Google Maps scraper retry when Google refuses a search, get past Google's cookie page in any language, and show clear messages when Google returns nothing. Your app updates automatically."
 }
