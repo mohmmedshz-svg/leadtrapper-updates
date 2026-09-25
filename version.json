@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.38",
+  "latest": "2.1.39",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.38/LeadTrapper.Setup.2.1.38.exe",
-  "message": "LeadTrapper v2.1.38 fixes the shortcut doing nothing after you close the LeadTrapper window: clicking it now brings the window back. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.39/LeadTrapper.Setup.2.1.39.exe",
+  "message": "LeadTrapper v2.1.39 makes sure LeadTrapper can never keep running without a window: closing the window now closes the app, and clicking the shortcut always shows the app or a message. Your app updates automatically."
 }
