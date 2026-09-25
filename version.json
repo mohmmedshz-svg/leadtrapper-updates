@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.35",
+  "latest": "2.1.36",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.35/LeadTrapper.Setup.2.1.35.exe",
-  "message": "LeadTrapper v2.1.35 makes the Google Maps scraper retry when Google refuses a search, get past Google's cookie page in any language, and show clear messages when Google returns nothing. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.36/LeadTrapper.Setup.2.1.36.exe",
+  "message": "LeadTrapper v2.1.36 makes the first start on a new computer more reliable (the one-time browser setup now waits for everything Google Maps needs), allows slow internet, and tells you clearly when your Instagram sign-in has expired. Your app updates automatically."
 }
