@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.36",
+  "latest": "2.1.37",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.36/LeadTrapper.Setup.2.1.36.exe",
-  "message": "LeadTrapper v2.1.36 makes the first start on a new computer more reliable (the one-time browser setup now waits for everything Google Maps needs), allows slow internet, and tells you clearly when your Instagram sign-in has expired. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.37/LeadTrapper.Setup.2.1.37.exe",
+  "message": "LeadTrapper v2.1.37 makes Instagram and Facebook Connect clearer: the sign-in window now comes to the front, you get a message for every outcome, and an account is only shown as connected after a real sign-in. Your app updates automatically."
 }
