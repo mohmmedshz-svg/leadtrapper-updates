@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.40",
+  "latest": "2.1.41",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.40/LeadTrapper.Setup.2.1.40.exe",
-  "message": "LeadTrapper v2.1.40 removes the Credits counter and card, since LeadTrapper is a subscription product. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.41/LeadTrapper.Setup.2.1.41.exe",
+  "message": "LeadTrapper v2.1.41 makes sure new free-trial sign-ups reach LeadTrapper reliably. Your app updates automatically."
 }
