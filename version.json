@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.41",
+  "latest": "2.1.42",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.41/LeadTrapper.Setup.2.1.41.exe",
-  "message": "LeadTrapper v2.1.41 makes sure new free-trial sign-ups reach LeadTrapper reliably. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.42/LeadTrapper.Setup.2.1.42.exe",
+  "message": "LeadTrapper v2.1.42 checks that licence replies are genuine and links your trial to your registered email so support can find it. Your app updates automatically."
 }
