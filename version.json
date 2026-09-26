@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.42",
+  "latest": "2.1.43",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.42/LeadTrapper.Setup.2.1.42.exe",
-  "message": "LeadTrapper v2.1.42 checks that licence replies are genuine and links your trial to your registered email so support can find it. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.43/LeadTrapper.Setup.2.1.43.exe",
+  "message": "LeadTrapper v2.1.43 adds the Broadcast List Maker: turn a list of names and numbers into contact files for your phone, in batches that fit one WhatsApp broadcast list. Your app updates automatically."
 }
