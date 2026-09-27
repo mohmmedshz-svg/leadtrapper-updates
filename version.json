@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.45",
+  "latest": "2.1.46",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.45/LeadTrapper.Setup.2.1.45.exe",
-  "message": "LeadTrapper v2.1.45 fixes a real bug: closing or uninstalling the app while it was open could leave it half-removed. Uninstalling now always works cleanly, and the app closes itself properly first. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.46/LeadTrapper.Setup.2.1.46.exe",
+  "message": "LeadTrapper v2.1.46 fixes a real bug: the Flow Pipeline screen under Automation could show up completely blank for some users. It now loads correctly every time. Your app updates automatically."
 }
