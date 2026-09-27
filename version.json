@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.46",
+  "latest": "2.1.47",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.46/LeadTrapper.Setup.2.1.46.exe",
-  "message": "LeadTrapper v2.1.46 fixes a real bug: the Flow Pipeline screen under Automation could show up completely blank for some users. It now loads correctly every time. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.47/LeadTrapper.Setup.2.1.47.exe",
+  "message": "LeadTrapper v2.1.47 fixes a real bug: after clicking Restart Now to update, a blank window could briefly appear on screen on Windows 11. It now updates without that window. Your app updates automatically."
 }
