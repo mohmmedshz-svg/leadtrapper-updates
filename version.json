@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.47",
+  "latest": "2.1.48",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.47/LeadTrapper.Setup.2.1.47.exe",
-  "message": "LeadTrapper v2.1.47 fixes a real bug: after clicking Restart Now to update, a blank window could briefly appear on screen on Windows 11. It now updates without that window. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.48/LeadTrapper.Setup.2.1.48.exe",
+  "message": "LeadTrapper v2.1.48 fixes a real bug: the desktop shortcut could disappear after updating. It's now correctly put back after every update. Your app updates automatically."
 }
