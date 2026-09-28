@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.48",
+  "latest": "2.1.49",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.48/LeadTrapper.Setup.2.1.48.exe",
-  "message": "LeadTrapper v2.1.48 fixes a real bug: the desktop shortcut could disappear after updating. It's now correctly put back after every update. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.49/LeadTrapper.Setup.2.1.49.exe",
+  "message": "LeadTrapper v2.1.49 cleans up a few confusing labels in the app (a button and some notifications showed an internal technical name instead of plain text). No change to how anything works. Your app updates automatically."
 }
