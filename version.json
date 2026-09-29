@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.49",
+  "latest": "2.1.50",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.49/LeadTrapper.Setup.2.1.49.exe",
-  "message": "LeadTrapper v2.1.49 cleans up a few confusing labels in the app (a button and some notifications showed an internal technical name instead of plain text). No change to how anything works. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.50/LeadTrapper.Setup.2.1.50.exe",
+  "message": "LeadTrapper v2.1.50 fixes a real bug: in rare cases one stalled request could freeze the whole app with no error message. The app now recovers cleanly instead. Your app updates automatically."
 }
