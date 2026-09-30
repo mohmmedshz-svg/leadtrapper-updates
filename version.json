@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.55",
+  "latest": "2.1.56",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.55/LeadTrapper.Setup.2.1.55.exe",
-  "message": "LeadTrapper v2.1.55 shows an Installing window during updates and reopens by itself when done. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.56/LeadTrapper.Setup.2.1.56.exe",
+  "message": "LeadTrapper v2.1.56 lets Wix store owners connect their WhatsApp from the Wix dashboard by scanning a QR code. Your app updates automatically."
 }
