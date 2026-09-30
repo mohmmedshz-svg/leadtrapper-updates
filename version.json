@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.53",
+  "latest": "2.1.54",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.53/LeadTrapper.Setup.2.1.53.exe",
-  "message": "LeadTrapper v2.1.53 adds Store Orders (automatic WhatsApp messages for your Wix store orders) and fixes Restart Now so updates install and reopen the app by themselves. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.54/LeadTrapper.Setup.2.1.54.exe",
+  "message": "LeadTrapper v2.1.54: Wix Store now checks each number on WhatsApp before sending, has a do-not-message list, and stops messaging customers who reply STOP. Your app updates automatically."
 }
