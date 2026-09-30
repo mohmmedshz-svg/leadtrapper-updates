@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.50",
+  "latest": "2.1.53",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.50/LeadTrapper.Setup.2.1.50.exe",
-  "message": "LeadTrapper v2.1.50 fixes a real bug: in rare cases one stalled request could freeze the whole app with no error message. The app now recovers cleanly instead. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.53/LeadTrapper.Setup.2.1.53.exe",
+  "message": "LeadTrapper v2.1.53 adds Store Orders (automatic WhatsApp messages for your Wix store orders) and fixes Restart Now so updates install and reopen the app by themselves. Your app updates automatically."
 }
