@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.65",
+  "latest": "2.1.66",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.65/LeadTrapper.Setup.2.1.65.exe",
-  "message": "LeadTrapper v2.1.65: cash-on-delivery answers (1 or 2) from customers are now always picked up. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.66/LeadTrapper.Setup.2.1.66.exe",
+  "message": "LeadTrapper v2.1.66: cash-on-delivery replies, Auto-Reply and Chatbot work again after a WhatsApp change. Your app updates automatically."
 }
