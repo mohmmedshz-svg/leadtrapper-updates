@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.69",
+  "latest": "2.1.71",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.69/LeadTrapper.Setup.2.1.69.exe",
-  "message": "LeadTrapper v2.1.69: starts in seconds on a new PC (uses the Microsoft Edge already on Windows, no long setup download). Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.71/LeadTrapper.Setup.2.1.71.exe",
+  "message": "LeadTrapper v2.1.71: small improvements that help us make LeadTrapper better for you. Your app updates automatically."
 }
