@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.72",
+  "latest": "2.1.73",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.72/LeadTrapper.Setup.2.1.72.exe",
-  "message": "LeadTrapper v2.1.72: STOP replies now show in your Wix store app, a warning for blank lead details in campaigns, and small fixes. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.73/LeadTrapper.Setup.2.1.73.exe",
+  "message": "LeadTrapper v2.1.73: STOP replies now show in your Wix store app, and Allow again keeps a number allowed. Your app updates automatically."
 }
