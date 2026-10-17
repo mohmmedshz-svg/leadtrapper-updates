@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.75",
+  "latest": "2.1.76",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.75/LeadTrapper.Setup.2.1.75.exe",
-  "message": "LeadTrapper v2.1.75: Wix cart reminders now reach customers who typed their number without a country code."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.76/LeadTrapper.Setup.2.1.76.exe",
+  "message": "LeadTrapper v2.1.76: Wix cart reminders reach customers who typed their number without a country code."
 }
