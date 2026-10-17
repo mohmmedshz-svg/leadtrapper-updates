@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.74",
+  "latest": "2.1.75",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.74/LeadTrapper.Setup.2.1.74.exe",
-  "message": "LeadTrapper v2.1.74: STOP replies managed in your Wix app, and the Wix app shows which number sends your order messages. Your app updates automatically."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.75/LeadTrapper.Setup.2.1.75.exe",
+  "message": "LeadTrapper v2.1.75: Wix cart reminders now reach customers who typed their number without a country code."
 }
