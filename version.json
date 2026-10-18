@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.77",
+  "latest": "2.1.78",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.77/LeadTrapper.Setup.2.1.77.exe",
-  "message": "LeadTrapper v2.1.77: Wix cart reminders arrive reliably, and the X on the do-not-message list works again."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.78/LeadTrapper.Setup.2.1.78.exe",
+  "message": "LeadTrapper v2.1.78: WhatsApp accounts reconnect by themselves when LeadTrapper starts."
 }
