@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.76",
+  "latest": "2.1.77",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.76/LeadTrapper.Setup.2.1.76.exe",
-  "message": "LeadTrapper v2.1.76: Wix cart reminders reach customers who typed their number without a country code."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.77/LeadTrapper.Setup.2.1.77.exe",
+  "message": "LeadTrapper v2.1.77: Wix cart reminders arrive reliably, and the X on the do-not-message list works again."
 }
