@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.89",
+  "latest": "2.1.93",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.89/LeadTrapper.Setup.2.1.89.exe",
-  "message": "LeadTrapper v2.1.89: all delay settings are now inside Send Bulk Messages."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.93/LeadTrapper.Setup.2.1.93.exe",
+  "message": "LeadTrapper v2.1.93: removed WhatsApp numbers now close everywhere and their old login is deleted. Clearer message-version choice in Send Bulk Messages."
 }
