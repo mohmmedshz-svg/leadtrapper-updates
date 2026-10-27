@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.88",
+  "latest": "2.1.89",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.88/LeadTrapper.Setup.2.1.88.exe",
-  "message": "LeadTrapper v2.1.88: every number is checked on WhatsApp before bulk sending."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.89/LeadTrapper.Setup.2.1.89.exe",
+  "message": "LeadTrapper v2.1.89: all delay settings are now inside Send Bulk Messages."
 }
