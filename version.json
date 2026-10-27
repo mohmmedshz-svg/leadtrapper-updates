@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.94",
+  "latest": "2.1.95",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.94/LeadTrapper.Setup.2.1.94.exe",
-  "message": "LeadTrapper v2.1.94: easier-to-read text across the app and clearer message-version tabs."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.95/LeadTrapper.Setup.2.1.95.exe",
+  "message": "LeadTrapper v2.1.95: stronger colours so all text is easy to read, and better support for screen readers."
 }
