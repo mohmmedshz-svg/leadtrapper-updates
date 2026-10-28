@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.104",
+  "latest": "2.1.106",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.104/LeadTrapper.Setup.2.1.104.exe",
-  "message": "LeadTrapper v2.1.104: clearer update problem reports so we can help you faster."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.106/LeadTrapper.Setup.2.1.106.exe",
+  "message": "LeadTrapper v2.1.106: security improvements. Please update."
 }
