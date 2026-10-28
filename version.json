@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.98",
+  "latest": "2.1.99",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.98/LeadTrapper.Setup.2.1.98.exe",
-  "message": "LeadTrapper v2.1.98: clearer progress line on the Save Contacts page."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.99/LeadTrapper.Setup.2.1.99.exe",
+  "message": "LeadTrapper v2.1.99: WhatsApp window restyled, clearer status for each number, safer removal."
 }
