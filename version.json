@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.97",
+  "latest": "2.1.98",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.97/LeadTrapper.Setup.2.1.97.exe",
-  "message": "LeadTrapper v2.1.97: Save Contacts page rewritten in plain words, cleaner text in every pop-up window."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.98/LeadTrapper.Setup.2.1.98.exe",
+  "message": "LeadTrapper v2.1.98: clearer progress line on the Save Contacts page."
 }
