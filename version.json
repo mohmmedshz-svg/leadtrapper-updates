@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.102",
+  "latest": "2.1.103",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.102/LeadTrapper.Setup.2.1.102.exe",
-  "message": "LeadTrapper v2.1.102: clearer Google Maps search notes."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.103/LeadTrapper.Setup.2.1.103.exe",
+  "message": "LeadTrapper v2.1.103: tidier Check Numbers pop-up with a better country picker."
 }
