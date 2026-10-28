@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.109",
+  "latest": "2.1.110",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.109/LeadTrapper.Setup.2.1.109.exe",
-  "message": "LeadTrapper v2.1.109: warming defaults to one number to all the others, plus a Select all tick. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.110/LeadTrapper.Setup.2.1.110.exe",
+  "message": "LeadTrapper v2.1.110: hide the warming window with the minus button, the X button now asks before stopping warming. Please update."
 }
