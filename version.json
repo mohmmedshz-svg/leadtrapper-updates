@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.101",
+  "latest": "2.1.102",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.101/LeadTrapper.Setup.2.1.101.exe",
-  "message": "LeadTrapper v2.1.101: dropdown lists now match the app style and work fully with the keyboard."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.102/LeadTrapper.Setup.2.1.102.exe",
+  "message": "LeadTrapper v2.1.102: clearer Google Maps search notes."
 }
