@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.100",
+  "latest": "2.1.101",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.100/LeadTrapper.Setup.2.1.100.exe",
-  "message": "LeadTrapper v2.1.100: messages helper now loads correctly the first time; Reload typing helper button removed."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.101/LeadTrapper.Setup.2.1.101.exe",
+  "message": "LeadTrapper v2.1.101: dropdown lists now match the app style and work fully with the keyboard."
 }
