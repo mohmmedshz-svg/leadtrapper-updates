@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.99",
+  "latest": "2.1.100",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.99/LeadTrapper.Setup.2.1.99.exe",
-  "message": "LeadTrapper v2.1.99: WhatsApp window restyled, clearer status for each number, safer removal."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.100/LeadTrapper.Setup.2.1.100.exe",
+  "message": "LeadTrapper v2.1.100: messages helper now loads correctly the first time; Reload typing helper button removed."
 }
