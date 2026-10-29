@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.110",
+  "latest": "2.1.111",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.110/LeadTrapper.Setup.2.1.110.exe",
-  "message": "LeadTrapper v2.1.110: hide the warming window with the minus button, the X button now asks before stopping warming. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.111/LeadTrapper.Setup.2.1.111.exe",
+  "message": "LeadTrapper v2.1.111: warm-up and bulk sending now act like a real person (typing, blue ticks, offline during long waits). Please update."
 }
