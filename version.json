@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.113",
+  "latest": "2.1.114",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.113/LeadTrapper.Setup.2.1.113.exe",
-  "message": "LeadTrapper v2.1.113: bulk messages and warm-up now go out in a natural random order, and numbers go offline during long waits. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.114/LeadTrapper.Setup.2.1.114.exe",
+  "message": "LeadTrapper v2.1.114: the Find Leads menu now opens correctly. Please update."
 }
