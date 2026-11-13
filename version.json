@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.119",
+  "latest": "2.1.120",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.119/LeadTrapper.Setup.2.1.119.exe",
-  "message": "LeadTrapper v2.1.119: Check Numbers keeps your contacts' names for Send Bulk Messages. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.120/LeadTrapper.Setup.2.1.120.exe",
+  "message": "LeadTrapper v2.1.120: every Excel column can go in your message, and Resume after a crash works. Please update."
 }
