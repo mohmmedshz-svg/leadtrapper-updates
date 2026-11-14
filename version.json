@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.123",
+  "latest": "2.1.124",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.123/LeadTrapper.Setup.2.1.123.exe",
-  "message": "LeadTrapper v2.1.123: dates and times from Excel now show correctly in your messages, ready for appointment reminders. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.124/LeadTrapper.Setup.2.1.124.exe",
+  "message": "LeadTrapper v2.1.124: repeat schedules every day (tomorrow's appointments, birthdays, renewals), see who replied YES, CHANGE or STOP, and 14 ready-made messages. Please update."
 }
