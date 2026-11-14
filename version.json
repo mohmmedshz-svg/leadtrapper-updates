@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.122",
+  "latest": "2.1.123",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.122/LeadTrapper.Setup.2.1.122.exe",
-  "message": "LeadTrapper v2.1.122: Send Later uses all your message versions, and the Auto-Reply Bot no longer answers in groups. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.123/LeadTrapper.Setup.2.1.123.exe",
+  "message": "LeadTrapper v2.1.123: dates and times from Excel now show correctly in your messages, ready for appointment reminders. Please update."
 }
