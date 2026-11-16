@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.128",
+  "latest": "2.1.129",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.128/LeadTrapper.Setup.2.1.128.exe",
-  "message": "LeadTrapper v2.1.128: Website Contact Finder for Spanish, Portuguese and Russian sites, the right country for every website, and it respects each site's robots.txt. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.129/LeadTrapper.Setup.2.1.129.exe",
+  "message": "LeadTrapper v2.1.129: the Website Contact Finder now reads store finders and branch lists, finds the right country on plain .com sites, and leaves out theme demo contacts. Please update."
 }
