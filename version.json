@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.134",
+  "latest": "2.1.135",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.134/LeadTrapper.Setup.2.1.134.exe",
-  "message": "LeadTrapper v2.1.134: Send Later now keeps the WhatsApp number you pick. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.135/LeadTrapper.Setup.2.1.135.exe",
+  "message": "LeadTrapper v2.1.135: Add Members to a Group fixed, and a safer number check. Please update."
 }
