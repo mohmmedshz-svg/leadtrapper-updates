@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.133",
+  "latest": "2.1.134",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.133/LeadTrapper.Setup.2.1.133.exe",
-  "message": "LeadTrapper v2.1.133: Website Contact Finder fixes (clearer messages for blocked or missing websites, safer CSV downloads). Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.134/LeadTrapper.Setup.2.1.134.exe",
+  "message": "LeadTrapper v2.1.134: Send Later now keeps the WhatsApp number you pick. Please update."
 }
