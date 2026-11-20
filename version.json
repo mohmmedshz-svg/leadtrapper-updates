@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.135",
+  "latest": "2.1.136",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.135/LeadTrapper.Setup.2.1.135.exe",
-  "message": "LeadTrapper v2.1.135: Add Members to a Group fixed, and a safer number check. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.136/LeadTrapper.Setup.2.1.136.exe",
+  "message": "LeadTrapper v2.1.136: the Email Finder can now search Google and Bing as well as Google Maps. Please update."
 }
