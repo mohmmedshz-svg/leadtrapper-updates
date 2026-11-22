@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.139",
+  "latest": "2.1.140",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.139/LeadTrapper.Setup.2.1.139.exe",
-  "message": "LeadTrapper v2.1.139: important fix, attached photos, PDFs and videos were not being delivered. Please update before you send files."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.140/LeadTrapper.Setup.2.1.140.exe",
+  "message": "LeadTrapper v2.1.140: important fix, when two sends overlapped a message could land in another chat. Please update now."
 }
