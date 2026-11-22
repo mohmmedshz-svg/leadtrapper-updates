@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.136",
+  "latest": "2.1.137",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.136/LeadTrapper.Setup.2.1.136.exe",
-  "message": "LeadTrapper v2.1.136: the Email Finder can now search Google and Bing as well as Google Maps. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.137/LeadTrapper.Setup.2.1.137.exe",
+  "message": "LeadTrapper v2.1.137: replies counted with the bot off, Inbox kept after restart, the right customer name from Excel and 10 more fixes. Please update."
 }
