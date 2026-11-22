@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.137",
+  "latest": "2.1.138",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.137/LeadTrapper.Setup.2.1.137.exe",
-  "message": "LeadTrapper v2.1.137: replies counted with the bot off, Inbox kept after restart, the right customer name from Excel and 10 more fixes. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.138/LeadTrapper.Setup.2.1.138.exe",
+  "message": "LeadTrapper v2.1.138: your messages are sent exactly as you wrote them, with no invisible characters added. Please update."
 }
