@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.138",
+  "latest": "2.1.139",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.138/LeadTrapper.Setup.2.1.138.exe",
-  "message": "LeadTrapper v2.1.138: your messages are sent exactly as you wrote them, with no invisible characters added. Please update."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.139/LeadTrapper.Setup.2.1.139.exe",
+  "message": "LeadTrapper v2.1.139: important fix, attached photos, PDFs and videos were not being delivered. Please update before you send files."
 }
