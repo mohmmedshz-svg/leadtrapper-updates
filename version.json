@@ -1,6 +1,6 @@
 {
-  "latest": "2.1.140",
+  "latest": "2.1.141",
   "min_required": "2.0.3",
-  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.140/LeadTrapper.Setup.2.1.140.exe",
-  "message": "LeadTrapper v2.1.140: important fix, when two sends overlapped a message could land in another chat. Please update now."
+  "download_url": "https://github.com/mohmmedshz-svg/leadtrapper-updates/releases/download/v2.1.141/LeadTrapper.Setup.2.1.141.exe",
+  "message": "LeadTrapper v2.1.141: dates and order numbers are no longer read as phone numbers, and Add Members no longer shows people as Added when they were not. Please update."
 }
